@@ -1,0 +1,8 @@
+﻿빌드 시작: 2018-07-26 오전 10:13:18
+     1>2 노드의 "E:\Work\MyTestServer\MyTestClient\MyTestClient.vcxproj" 프로젝트(build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(511,5): error MSB8008: 지정된 플랫폼 도구 집합(v140)이 설치되지 않았거나 올바르지 않습니다. 지원되는 플랫폼 도구 집합 값이 선택되었는지 확인하십시오.
+     1>"E:\Work\MyTestServer\MyTestClient\MyTestClient.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.00
